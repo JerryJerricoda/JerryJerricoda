@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @JerryJerricoda
-- 👀 I’m interested in creating games & art. I love solving complex problems as it brings me deep satisfaction, which is why I"m a programmer!
-- 🌱 I’m currently learning web development and soon game development.
-- 💞️ I’m looking to collaborate on nothing at the moment but in the future...
+- 👋 Hi, I’m @DevanMauch
+- 🌱 I’m currently learning web development
 - 📫 How to reach me devanmauch@gmail.com!
 
 <!---
